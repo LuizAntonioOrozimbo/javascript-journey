@@ -1,23 +1,44 @@
-██╗ █████╗ ██╗ ██╗ ███████╗██╗ ██████╗
-██║██╔══██╗██║ ██║ ██╔════╝██║ ██╔═══██╗
-██║███████║██║ ██║ █████╗ ██║ ██║ ██║
-██║██╔══██║╚██╗ ██╔╝ ██╔══╝ ██║ ██║ ██║
-██║██║ ██║ ╚████╔╝ ███████╗███████╗╚██████╔╝
-╚═╝╚═╝ ╚═╝ ╚═══╝ ╚══════╝╚══════╝ ╚═════╝
-J A V A S C R I P T J O U R N E Y
-
 # JavaScript Journey
 
-Bem-vindo ao **JavaScript Journey**, meu repositório oficial de estudos sobre JavaScript.
+Bem-vindo ao javascript Journey — repositório dedicado ao estudo de JavaScript (.js).
 
-Aqui organizo, de forma clara e evolutiva, toda minha jornada de aprendizado, incluindo:
+> 🌐 **Este repositório faz parte do ecossistema [Learning Journey](https://github.com/LuizAntonioOrozimbo/learning-journey)**  
+> Lá você encontra a visão geral do projeto, a filosofia de estudo, os padrões adotados e os demais journeys disponíveis.
+Este espaço representa minha jornada de aprendizado: aulas, exercícios, projetos, snippets e materiais de referência voltados à automação, scripts e desenvolvimento de soluções em JavaScript.  
+Você está convidado a acompanhar, participar e até colaborar com esta jornada.  
+A proposta é **aprender de verdade**, com organização, prática e entendimento — arrumando ideias antes de seguir adiante.
 
-- ▶️ Cursos (YouTube, plataformas e documentações)
-- 📝 Anotações das aulas
+---
+
+## 📚 O que você encontrará aqui
+
+Este repositório reúne:
+
+- ▶️ Cursos (YouTube, plataformas e documentações oficiais)
+- 📝 Anotações de aulas
 - 💡 Resumos e insights pessoais
 - 📚 Glossário com conceitos importantes
-- 🧪 Exercícios e pequenos projetos
+- 🧪 Exercícios, testes e pequenos projetos
 - 🧩 Templates e snippets para padronizar estudos
+
+---
+
+## 🧠 Metodologia de Estudo
+
+Meu processo de aprendizado combina:
+
+- estudo ativo e progressivo
+- organização clara do conteúdo
+- prática constante
+- revisões frequentes
+
+Utilizo o **ChatGPT como assistente de estudos**, principalmente para:
+- esclarecer conceitos
+- ajudar na organização do material
+- revisar ideias e abordagens
+- apoiar a criação de exemplos e testes
+
+Todo o conteúdo aqui registrado passa por **validação prática**, garantindo que o aprendizado seja realmente assimilado.
 
 ---
 
@@ -27,8 +48,8 @@ cursos/ → Todos os cursos organizados por fonte
 glossario.md → Termos e conceitos aprendidos
 materiais/ → PDFs, imagens, referências
 templates/ → Modelos para aulas e exercícios
-README.md → Este arquivo, com a visão geral da disciplina
-
+testes/ → Experimentos, bifurcações e explorações paralelas
+README.md → Visão geral da jornada
 
 ---
 
@@ -36,12 +57,12 @@ README.md → Este arquivo, com a visão geral da disciplina
 
 Este repositório tem como objetivo:
 
-- consolidar conhecimento
-- registrar minha evolução
-- manter tudo organizado e fácil de navegar
-- servir como base para estudos futuros
+- consolidar conhecimento em JavaScript
+- registrar minha evolução ao longo do tempo
+- manter os estudos organizados e fáceis de navegar
+- servir como base para estudos futuros e projetos práticos
 
----yaml
+---
 
 ## 🔗 Fontes e Documentações Oficiais
 
@@ -58,8 +79,27 @@ https://tc39.es/
 
 ## 🧭 Minha Jornada
 
-Este repositório crescerá aos poucos, conforme avanço nos cursos e práticas.  
-A cada aula, um novo arquivo será criado dentro da estrutura adequada.
+Este repositório crescerá aos poucos, conforme avanço nos estudos e práticas.  
+A cada aula ou experimento relevante, novos arquivos serão adicionados dentro da estrutura adequada.
+
+Nada aqui é definitivo — tudo faz parte de uma jornada em construção.
+
+---
+
+## 🤝 Contribuição
+
+Sinta-se à vontade para:
+
+- sugerir tópicos
+- enviar exemplos de scripts que queira transformar em aula
+- pedir que eu priorize determinados assuntos
+
+---
+
+## 📄 Licença
+
+Sinta-se livre para usar e adaptar este material.  
+Caso publique algo derivado, recomendo o uso de uma licença permissiva como a **MIT**.
 
 ---
 
